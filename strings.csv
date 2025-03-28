@@ -1,0 +1,65 @@
+ID,Apa hambatan utama Anda saat mencari lokasi-lokasi tadi?,"Ketika kesulitan mencari gedung, ruangan, atau fasilitas di kampus, mana tindakan yang Anda lakukan?",Bagaimana tampilan antarmuka pengguna yang Anda harapkan jika dibuat suatu aplikasi sistem navigasi untuk multikampus ITB?
+1,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas, Rendahnya aksesibilitas untuk disabilitas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+2,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas",Bertanya ke orang lain,
+3,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Simpel dan layoutnya tidak rumit
+4,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri","Yang simpel, Cukup menampilkan peta kampus dan interaktif untuk setiap gedung "
+5,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber, Rendahnya aksesibilitas untuk disabilitas","Mencari informasi di internet, Melakukan eksplorasi sendiri",
+6,Tidak ada peta/denah/petunjuk yang jelas,"Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+7,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Bertanya ke orang lain, Menggunakan OA LINE ITB Ganesha Map","Ada search bar untuk mencari berdasarkan nama yg menghighlight gedung yg dicari
+
+Menampilkan peta ganesha dimana kita bisa memencet sebuah gedung untuk melihat ruangan yg ada di dalamnya"
+8,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Yang warnanya pink
+9,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+10,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Rendahnya aksesibilitas untuk disabilitas","Bertanya ke orang lain, Menggunakan aplikasi/web master ruangan per kampus","Clean, sleek design"
+11,Penomoran ruangan tidak konsisten,"Mencari informasi di internet, Bertanya ke orang lain",-
+12,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Informasi tersebar di banyak sumber, Rendahnya aksesibilitas untuk disabilitas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Yang tidak ngelag dan ringan
+13,Tidak ada peta/denah/petunjuk yang jelas,"Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+14,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+15,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri","bagian awal terdapat pilihan kampus yang ingin dituju, kemudian setidaknya terdapat navigasi rute pejalan kaki menuju gedung yang dituju"
+16,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Yang user-friendly
+17,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas",Bertanya ke orang lain,
+18,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+19,Informasi tersebar di banyak sumber,"Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+20,"Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber",Bertanya ke orang lain,
+21,Tata letak kampus rumit,Melakukan eksplorasi sendiri,
+22,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+23,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+24,Tidak ada peta/denah/petunjuk yang jelas,"Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+25,Tidak ada peta/denah/petunjuk yang jelas,"Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri","Penampilan utama langsung ke peta besar suatu kampus ITB (asumsilah kampus Ganesha karena yang paling sering dikunjungi saat ini), tidak memasukkan gedung2 yang tidak dalam ITB karena di luar scope aplikasi ""denah kampus"" sehingga aplikasi bisa hanya fokus ke kampus saja.Peta ini bisa dizoom dan diclick setiap gedung untuk ""lihat detail"" dan ""navigasi"", pastikan juga ada menu untuk search bar dan kalau bisa ada daftar gedung/fasilitas.
+Setelah itu, untuk interface setiap gedung/fasilitas, beri peta yang ada legenda di mana toilet, kantin, musholla yang ada. Kalau bisa, juga ada semacam fitur yang memberi rekomendasi fasilitas (toilet, kantin, musholla) terdekat dari suatu lokasi"
+26,"Tata letak kampus rumit","Mencari informasi di internet, Melakukan eksplorasi sendiri",
+27,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas",Bertanya ke orang lain,
+28,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Melakukan eksplorasi sendiri",
+29,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",ada smart bot nya
+30,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri","sleek, modern, minimalistik, user-friendly, responsive"
+31,Tidak ada peta/denah/petunjuk yang jelas,"Mencari informasi di internet, Bertanya ke orang lain",
+32,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain",
+33,Tidak ada peta/denah/petunjuk yang jelas,"Bertanya ke orang lain, Melakukan eksplorasi sendiri","dibikin peta ketiga kampus, terus bisa filter sesuai mau nyari apa
+(tau Genshin Impact Interactive Map gak? kurleb seperti itu bakal membantu sih soalnya simpel dan sistem filternya enak)"
+34,Tidak ada peta/denah/petunjuk yang jelas,"Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Seperti antarmuka google map
+35,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber, Rendahnya aksesibilitas untuk disabilitas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Kayak google maps pun tak apa sudah sangat membantu 😭 
+36,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+37,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri","Lancar, minimalist, ga ada iklan"
+38,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Tidak susah dioperasikan dan cukup simpel
+39,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",Mungkin bisa disesuaikan dengan ciri khas tertentu dari masing-masing multikampus
+40,Tata letak kampus rumit,"Bertanya ke orang lain, Melakukan eksplorasi sendiri",Menampilkan denah ataupun peta yang dibuat sendiri dengan proporsi dan skala yang tepat
+41,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+42,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas",Mencari informasi di internet,
+43,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+44,Tidak ada peta/denah/petunjuk yang jelas,"Bertanya ke orang lain, Melakukan eksplorasi sendiri",Tidak ada
+45,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",Sederhana tapi penuh dengan fitur
+46,Tata letak kampus rumit,"Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+47,"Tata letak kampus rumit, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",Jangan information dumping di UI & menu-menu juga jangan terlalu rumit/masuk di akal
+48,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten",Melakukan eksplorasi sendiri,
+49,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Rendahnya aksesibilitas untuk disabilitas","Mencari informasi di internet, Bertanya ke orang lain","Simpel dan minimalis, warna cerah dan ringan."
+50,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri","Nyaman digunakan pengguna, aksesnya mudah"
+51,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+52,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain","Mudah dinavigasikan antara menu (peta kampus, peta lantai, etc), adanya opsi mengaktifkan petunjuk lokasi2 seperti toilet, jalur teduh, mushola, kantin, adanya opsi text-to-speech dengan petunjuk yang jelas atau link ke google maps bagi pengguna tunanetra"
+53,Tata letak kampus rumit,Bertanya ke orang lain,
+54,"Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+55,"Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber",Melakukan eksplorasi sendiri,dibuat simple dan ada marker live location temoat kita berada biar tau kita sebetulnya ada di gedubg apa dan lantai berapa
+56,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Google Maps","Pokoknya yang mudah dibaca, arahnya jelas. Kalau bisa ada list tempat karena jujur dari aku pribadi gak tau banyak nama tempat di kampusnya, jadi mungkin bisa dikasih fitur ini. "
+57,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri","Menyesuaikan dengan lokasi saat ini dan dapat mengetahui daerah, bisa mencari nama ruangan, bisa memberikan rute terbaik untuk dijalankan antara 2 titik pada kampus"
+58,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas","Bertanya ke orang lain, Melakukan eksplorasi sendiri",
+59,Penomoran ruangan tidak konsisten,"Mencari informasi di internet, Melakukan eksplorasi sendiri","Turatur, yang penting clean dengan nuansa biru"
+60,"Tata letak kampus rumit, Penomoran ruangan tidak konsisten, Tidak ada peta/denah/petunjuk yang jelas, Informasi tersebar di banyak sumber","Mencari informasi di internet, Bertanya ke orang lain, Melakukan eksplorasi sendiri, Google Maps","easy to use, ga bikin sakit mata"
