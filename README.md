@@ -1,0 +1,2 @@
+# Analisis Data Kuesioner UX Research FIND IT! DTETI UGM 2025 -- tim "nabrak polisi tidur"
+Repositori ini berisi data mentah dan hasil analisis data kuesioner yang dilakukan oleh tim "nabrak polisi tidur" untuk keperluan lomba UX Research FIND IT! DTETI UGM 2025. Silakan buka [file Jupyter Notebook](UXFindIT2025_nabrak_polisi_tidur.ipynb) kami.
